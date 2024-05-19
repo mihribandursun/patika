@@ -27,6 +27,13 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
    [2,3,5,8,7,9,4,15,16]  <br/>
    [2,3,4,8,7,9,5,15,16]  <br/>
    [2,3,4,5,7,9,8,15,16]  <br/>
+
+
+
+
+
+   
+   
     
 
    
